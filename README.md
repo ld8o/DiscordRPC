@@ -17,10 +17,10 @@ bool connected = await rpc.ConnectAsync("121"); // Your Discord Application ID
 
 if (connected)
 {
-    rpc.SetPresence("test", 
-  "test", // Details
-   "logo", // Must match an asset from your Discord app
-   "test" // State
+    rpc.SetPresence("example", // Details 
+  "example", // State
+   "example", // Must match an asset from your Discord app
+   "example" // Asset Text
 ); 
 }
 ```
