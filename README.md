@@ -3,9 +3,9 @@
 
 # Installation
 1. Clone the repo or copy the files `DiscordRPC.cs` and `DiscordPipeClient.cs` into your project.
-or
-1. Download the DLL file from the [Releases](https://github.com/ld8o/DiscordRPC/releases) section.
-2. In your project:
+2. or
+3. Download the DLL file from the [Releases](https://github.com/ld8o/DiscordRPC/releases) section.
+4. In your project:
    - **Right-click on References > Add Reference...**
    - Browse to `DiscordRPC.dll`
    - Click **OK**
