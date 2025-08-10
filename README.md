@@ -19,7 +19,7 @@ if (connected)
 {
     rpc.SetPresence("example", // Details 
   "example", // State
-   "example", // Must match an asset from your Discord app
+   "example", // Image, Must match an asset from your Discord app
    "example" // Asset Text
 ); 
 }
